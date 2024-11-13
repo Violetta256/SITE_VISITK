@@ -1,0 +1,46 @@
+body{
+    background-color: lightblue;
+}
+.main-title{
+    color: red;
+}
+.nav-list .link{
+    color: green;
+}
+.nav-list .special-link{
+    color: blue;
+}
+.nav-list .special{
+    color: yellow;
+}
+.post {
+    color: orange;
+}
+.post2 {
+    color: purple;
+}
+.widget h3 {
+    color: #fc67aa;
+}
+.color-list li{
+    color:gray;
+}
+.color-list .marked{
+    color:brown;
+}
+.color-list .highlighted{
+    color:black;
+}
+.important-widget h3{
+    color:maroon;
+}
+.important-widget .note{
+    color:maroon;
+}
+.form input[type="text"] {
+    color: white; 
+    background-color: black; 
+}
+.submit-btn {
+    color: black; 
+}
